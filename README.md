@@ -190,36 +190,8 @@ python engine.py
 
 > *Note*: You should replace engine.py with the actual name of the Python script containing the code. Additionally, you should make sure that the video file and metadata directory exist and are accessible.
 
-## 🙌 Want to contribute?
-If you would like to contribute to this api please go ahead and read [Code of Conduct](https://github.com/kinshukgoel4/Metadata-Engine/blob/main/CODE_OF_CONDUCT.md) and [Contribution Guideline](https://github.com/kinshukgoel4/Metadata-Engine/blob/main/CONTRIBUTING.md). Once you read through them agree to policies of this project go ahead with **Contribution** steps 
 
-## Contributing📈
 
-Thank you for considering and taking the time to contribute! Product focuses on 100% education as well as upskilling developing countries and rural areas. We welcome all contributions that improve the functionality or usability of the script.
-
-The following are guidelines for contributing to this project.
-
-## How to Report Bugs
-
-Please open [a new issue in the appropriate GitHub repository][new-issue] with steps to reproduce the problem you're experiencing.
-
-Be sure to include as much information including screenshots, text output, and both your expected and actual results.
-
-## How to Request Enhancements
-
-First, please refer to the applicable [GitHub repository][github-repo] and search [the repository's GitHub issues][issues-list] to make sure your idea has not been (or is not still) considered.
-
-Then, please [create a new issue in the GitHub repository][new-issue] describing your enhancement.
-
-Be sure to include as much detail as possible including step-by-step descriptions, specific examples, screenshots or mockups, and reasoning for why the enhancement might be worthwhile.
-
-[new-issue]: https://github.com/kaiwalyakoparkar/quora-for-college/issues/new/choose
-[github-repo]: https://github.com/kaiwalyakoparkar/quora-for-college/
-[issues-list]: https://github.com/kaiwalyakoparkar/quora-for-college/issues
-
-## Code of Conduct🏛
-
-This project and everyone participating in it is governed by the Metadata Engine [Code of conduct](https://github.com/kinshukgoel4/Metadata-Engine/blob/main/CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code. Please report unacceptable behavior to this [mail-ID](kinshukgoel4@gmail.com).
 
 ## Conclusion 🎉
 
